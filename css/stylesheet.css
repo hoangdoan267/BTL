@@ -240,3 +240,7 @@ input:focus, select:focus, textarea:focus {
 	margin: 20px 0;
 }
 
+.product-image img{
+	width: 100%;
+}
+
